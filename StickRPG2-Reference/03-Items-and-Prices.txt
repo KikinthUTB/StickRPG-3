@@ -1,0 +1,218 @@
+# Stick RPG 2 - Items and Prices
+
+## Food and Consumables
+
+### Energy/Health Items
+- **Coffee** - $3 - Convenience Store - Small energy boost
+- **Energy Drink** - $5 - Convenience Store - Medium energy boost
+- **X-Gen Energy Drink** - $10 - Special vendors - Large energy boost, story item
+- **Sandwich** - $4 - Convenience Store - Restores small health
+- **Pizza** - $8 - Restaurant - Restores medium health
+- **Steak Dinner** - $25 - High-end restaurant - Restores full health
+- **Vitamin Pack** - $15 - Hospital/Pharmacy - Temporary stat boost
+- **Protein Shake** - $12 - Gym - Helps strength training
+
+### Alcohol and Party Items
+- **Beer** - $6 - Bar/Convenience Store - Social item, affects charm
+- **Whiskey** - $15 - Bar - Strong alcohol, affects stats temporarily
+- **Wine** - $20 - Restaurant/Wine Shop - Sophistication, charm boost
+- **Champagne** - $50 - Luxury venues - Special occasions
+
+## Clothing and Appearance
+
+### Outfits (Affect Charm and Style)
+- **Basic T-Shirt** - $10 - Clothing Store - Starting outfit
+- **Jeans** - $25 - Clothing Store - Basic pants
+- **Business Suit** - $200 - Clothing Store - +20 Charm, required for some jobs
+- **Tuxedo** - $500 - High-end store - +40 Charm, special events
+- **Casual Outfit** - $75 - Clothing Store - +10 Charm
+- **Sports Jersey** - $50 - Sports Store - Athletic appearance
+- **Leather Jacket** - $150 - Clothing Store - +15 Charm, cool factor
+- **Designer Clothes** - $1,000 - Luxury store - +50 Charm, status symbol
+- **Workout Gear** - $60 - Gym/Sports Store - Gym requirement
+- **Swimwear** - $40 - Beach Shop - Beach activities
+- **Winter Coat** - $100 - Clothing Store - Seasonal item
+
+### Accessories
+- **Sunglasses** - $50 - Accessory Store - +5 Charm
+- **Watch** - $200 - Jewelry Store - +10 Charm, shows time
+- **Gold Chain** - $500 - Jewelry Store - +15 Charm
+- **Designer Watch** - $2,000 - Luxury store - +25 Charm, status
+- **Hat Collection** - $30-150 - Various stores - +5-15 Charm
+- **Backpack** - $45 - School Store - Carry more items
+
+## Vehicles
+
+### Basic Transportation
+- **Skateboard** - $100 - Sports Store - 2x walking speed
+- **Bicycle** - $300 - Bike Shop - 3x walking speed
+- **Scooter** - $500 - Vehicle Store - 3.5x walking speed
+
+### Cars
+- **Used Car (Clunker)** - $2,000 - Used Car Lot - 5x walking speed, unreliable
+- **Sedan** - $8,000 - Car Dealership - 6x walking speed, reliable
+- **Sports Car** - $25,000 - Car Dealership - 8x walking speed, style
+- **Luxury Car** - $50,000 - Luxury Dealership - 10x walking speed, status
+- **Supercar** - $100,000 - Exotic Dealership - 12x walking speed, ultimate
+
+### Special Vehicles
+- **Motorcycle** - $15,000 - Bike Shop - 7x walking speed, cool factor
+- **Convertible** - $35,000 - Car Dealership - 8x walking speed, charm boost
+- **Helicopter** - $500,000 - Airport - Instant travel between islands
+
+### Vehicle Costs
+- **Insurance** - $100-2,000/day depending on vehicle
+- **Gas** - $20-100 depending on vehicle and use
+- **Repairs** - $50-5,000 depending on damage
+
+## Housing and Furniture
+
+### Housing (Daily Rent/Purchase)
+- **Park Bench** - Free - Park - No benefits, starting location
+- **Trailer** - $200/day - Trailer Park - Basic shelter
+- **Small Apartment** - $500/day - Apartment Complex - Save game, small storage
+- **Large Apartment** - $1,000/day - Apartment Complex - Better amenities
+- **Suburban House** - $2,500/day - Suburbs - Good space, can add furniture
+- **Beach House** - $5,000/day - Second Island - Luxury, great location
+- **Penthouse** - $10,000/day or $500,000 purchase - Downtown - Ultimate housing
+- **Mansion** - $1,000,000 purchase - Executive Island - End-game housing
+
+### Furniture (One-time Purchase)
+- **Bed (Basic)** - $200 - Furniture Store - Sleep/save
+- **Bed (Luxury)** - $1,500 - Furniture Store - Better rest bonus
+- **Couch** - $300 - Furniture Store - Comfort, charm
+- **TV (Small)** - $400 - Electronics Store - Entertainment
+- **TV (Large)** - $2,000 - Electronics Store - Better entertainment
+- **Computer (Basic)** - $800 - Electronics Store - Internet, jobs
+- **Computer (Gaming)** - $3,000 - Electronics Store - Games, high-end work
+- **Bookshelf** - $250 - Furniture Store - Intelligence gain at home
+- **Home Gym Equipment** - $1,500 - Sports Store - Strength training at home
+- **Stereo System** - $600 - Electronics Store - Music, parties
+- **Kitchen Set** - $1,000 - Furniture Store - Cook at home
+- **Decorations** - $50-500 - Various stores - Aesthetic improvements
+
+## Weapons and Combat Items
+
+### Melee Weapons
+- **Fists** - Free - Default - Base damage
+- **Brass Knuckles** - $50 - Black Market - +10 damage
+- **Baseball Bat** - $75 - Sports Store - +15 damage
+- **Crowbar** - $100 - Hardware Store - +20 damage
+- **Katana** - $500 - Specialty Store - +40 damage
+- **Chainsaw** - $1,200 - Hardware Store - +60 damage, heavy
+
+### Ranged Weapons (Require Gun License - $500 from Police)
+- **Pistol** - $300 - Gun Store - 30 damage, accurate
+- **Shotgun** - $600 - Gun Store - 50 damage, close range
+- **SMG** - $1,000 - Gun Store - 35 damage, rapid fire
+- **Rifle** - $1,500 - Gun Store - 60 damage, long range
+- **Sniper Rifle** - $3,000 - Gun Store - 100 damage, very long range
+- **Rocket Launcher** - $10,000 - Black Market - 200 damage, explosive
+
+### Ammunition
+- **Pistol Ammo** - $20/box (50 rounds) - Gun Store
+- **Shotgun Shells** - $30/box (25 rounds) - Gun Store
+- **SMG Ammo** - $40/box (100 rounds) - Gun Store
+- **Rifle Ammo** - $50/box (30 rounds) - Gun Store
+- **Sniper Ammo** - $100/box (10 rounds) - Gun Store
+- **Rockets** - $500 each - Black Market
+
+### Armor
+- **Leather Jacket** - $150 - Clothing Store - 10 defense
+- **Kevlar Vest** - $500 - Police/Military Store - 30 defense
+- **Full Body Armor** - $2,000 - Military Store - 50 defense
+- **Riot Gear** - $5,000 - Special Vendor - 75 defense
+
+## Special and Quest Items
+
+### Story Items
+- **Dimensional Rift Detector** - Quest reward - Professor Ansel - Story progression
+- **Corporate ID Badge** - Obtained through story - The Corporation - Access areas
+- **Director's Key** - Late game item - Director - Final areas access
+- **X-Gen Formula** - Quest item - Laboratory - Story critical
+- **Ancient Artifact** - Hidden item - Z Island - Secret ending requirement
+
+### Skill Books (One-time use, permanent stat boost)
+- **Strength Training Manual** - $500 - Bookstore - +25 Strength
+- **Speed Reading Course** - $500 - Bookstore - +25 Intelligence
+- **Charisma Guide** - $500 - Bookstore - +25 Charm
+- **Master's Compendium** - $5,000 - Rare book store - +50 to chosen stat
+- **Ancient Wisdom** - $10,000 - Black Market - +100 to all stats
+
+### Tools and Equipment
+- **Lockpick Set** - $200 - Black Market - Open locked doors
+- **Hacking Device** - $1,000 - Electronics Store - Computer hacking
+- **Camera** - $300 - Electronics Store - Photography, evidence gathering
+- **Disguise Kit** - $800 - Spy Shop - Stealth missions
+- **Metal Detector** - $400 - Beach Shop - Find buried items
+
+## Collectibles and Trophies
+
+### Trading Cards
+- **Common Cards** - $5 - Various locations - Collectible series
+- **Rare Cards** - $50 - Card Shop - Complete set bonuses
+- **Legendary Cards** - $500 - Special vendors - Ultimate collection
+
+### Achievements Items
+- **Trophy Case** - $1,000 - Furniture Store - Display achievements
+- **Photo Album** - $100 - Camera Store - Store memories
+- **Medal Collection** - Earned through gameplay - Various - Accomplishments
+
+## Investment Items
+
+### Financial Instruments
+- **Stocks (Low Risk)** - Variable - Stock Market - Small returns
+- **Stocks (High Risk)** - Variable - Stock Market - Potential big returns
+- **Bonds** - $1,000 minimum - Bank - Safe, steady income
+- **Real Estate** - $10,000+ - Realty Office - Passive income
+- **Business Shares** - $50,000+ - Corporate Island - High returns
+
+## Black Market Items
+
+### Illegal/Rare Items (Higher prices, higher risks)
+- **Counterfeit ID** - $1,000 - Black Market - Access restricted areas
+- **Stolen Goods** - Variable - Black Market - Resell for profit
+- **Illegal Substances** - $100-1,000 - Black Market - Various effects, risky
+- **Contraband Weapons** - 2x normal price - Black Market - Powerful but illegal
+
+## Miscellaneous
+
+### Services
+- **Haircut** - $20 - Barber Shop - Change appearance
+- **Tattoo** - $100-500 - Tattoo Parlor - Permanent body art
+- **Car Wash** - $15 - Gas Station - Clean vehicle
+- **Dry Cleaning** - $25 - Cleaners - Maintain clothing
+- **Phone Plan** - $50/day - Phone Store - Communication
+- **Internet Service** - $30/day - ISP - Computer access at home
+- **Gym Membership** - $100/day - Gym - Unlimited training
+
+### Gifts for NPCs
+- **Flowers** - $15 - Flower Shop - Romance boost
+- **Chocolate** - $10 - Candy Store - Friendship boost
+- **Jewelry** - $100-5,000 - Jewelry Store - Major relationship boost
+- **Perfume/Cologne** - $75 - Department Store - Charm gift
+
+## Item Locations Summary
+
+### Where to Find Items
+- **Convenience Store**: Food, drinks, basic supplies
+- **Clothing Store**: Outfits, basic accessories
+- **Gun Store**: Weapons, ammo (license required)
+- **Electronics Store**: Computers, TVs, gadgets
+- **Furniture Store**: Housing items, decorations
+- **Sports Store**: Athletic gear, skateboards
+- **Car Dealership**: Vehicles, insurance
+- **Black Market**: Illegal items, rare goods (unlocks mid-game)
+- **Beach Shops**: Swimwear, beach equipment (Second Island)
+- **Luxury Stores**: High-end everything (Executive Island)
+
+## Notes for Stick RPG 3
+- Item progression system encourages continued play
+- Variety of items gives players choices in how to spend money
+- Special items tied to story create meaningful rewards
+- Vehicle progression speeds up gameplay as world expands
+- Housing upgrades provide tangible goals
+- Weapon variety could be expanded with modification system
+- Consider adding crafting or customization mechanics
+- Collectibles add replay value
+- Illegal items add risk/reward decision making

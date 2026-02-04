@@ -1,0 +1,389 @@
+# Stick RPG 2 - Gameplay Mechanics
+
+## Core Stat System
+
+### Three Primary Stats
+
+#### Strength
+- **Description**: Physical power and athletic ability
+- **Maximum**: 999
+- **Training Methods**:
+  - Gym workout sessions (+5-10 per session)
+  - Construction work (+2-5 per day)
+  - Fighting (+1-3 per fight)
+  - Physical jobs (+1-2 passive gain)
+  - Protein shakes (temporary boost)
+  - Strength training manual (one-time +25)
+- **Unlocks**:
+  - Physical jobs (construction, bouncer, athlete)
+  - Combat effectiveness
+  - Intimidation options
+  - Heavy lifting puzzles
+  - Certain locations and activities
+- **Effects**:
+  - Damage in combat
+  - Job performance
+  - Physical challenges
+  - Carrying capacity
+
+#### Intelligence
+- **Description**: Mental capacity and learning ability
+- **Maximum**: 999
+- **Training Methods**:
+  - University classes (+10-15 per session)
+  - Library study (+3-7 per session)
+  - Reading books (+5-10)
+  - Computer work (+1-2 passive)
+  - Puzzles and challenges (+1-5)
+  - Speed reading course (one-time +25)
+- **Unlocks**:
+  - Academic and professional jobs
+  - Hacking abilities
+  - Complex dialogue options
+  - Research access
+  - Strategic mini-games
+- **Effects**:
+  - Job availability and pay
+  - Learning speed
+  - Puzzle solving
+  - Stock market success
+  - Conversation options
+
+#### Charm
+- **Description**: Social ability and attractiveness
+- **Maximum**: 999
+- **Training Methods**:
+  - Socializing at bars/clubs (+3-8 per session)
+  - Conversations with NPCs (+1-3)
+  - Dating (+5-10 per successful date)
+  - Fashion/appearance upgrades (passive boost)
+  - Charisma guide (one-time +25)
+- **Unlocks**:
+  - Social jobs (sales, entertainment)
+  - Romance options
+  - Persuasion choices
+  - Better prices in stores
+  - Exclusive social venues
+- **Effects**:
+  - NPC reactions
+  - Relationship building
+  - Negotiation success
+  - Job opportunities
+  - Social event access
+
+### Balanced vs. Specialized Builds
+- **Balanced**: All stats 300+ for versatility
+- **Strength Build**: 800+ Strength, other stats lower
+- **Intelligence Build**: 800+ Intelligence, other stats lower
+- **Charm Build**: 800+ Charm, other stats lower
+- **Hybrid Builds**: Two stats high, one moderate
+
+## Time Management System
+
+### Day/Night Cycle
+- **Game Day Length**: ~30 minutes real-time (adjustable)
+- **Time Periods**:
+  - Early Morning (6 AM - 9 AM): Limited activities, some jobs
+  - Morning (9 AM - 12 PM): Most businesses open, school, work
+  - Afternoon (12 PM - 5 PM): Peak activity time
+  - Evening (5 PM - 9 PM): Shops closing, entertainment opening
+  - Night (9 PM - 2 AM): Nightlife, clubs, bars, some jobs
+  - Late Night (2 AM - 6 AM): Few activities, dangerous areas
+
+### Energy System
+- **Maximum Energy**: 100
+- **Energy Consumption**:
+  - Working: -20 to -40 per shift
+  - Training: -10 to -20 per session
+  - Socializing: -5 to -15
+  - Walking/Travel: -1 to -5
+  - Fighting: -10 to -30
+- **Energy Restoration**:
+  - Sleeping: Full restore
+  - Coffee: +20 energy
+  - Energy drinks: +30 energy
+  - X-Gen: +50 energy
+  - Food: +10 to +30
+  - Rest at home: +5 per hour
+
+### Daily Schedule Planning
+- **Optimal Strategy**: Balance work, training, and social activities
+- **Example Day**:
+  1. Morning: Work or training
+  2. Afternoon: Second activity (work/train/socialize)
+  3. Evening: Entertainment or dates
+  4. Night: Optional third activity or rest
+  5. Sleep to restore energy
+
+## Money and Economy
+
+### Income Sources
+- **Jobs**: Primary income, $20 to $5,000/day
+- **Investments**: Passive income, variable returns
+- **Gambling**: High risk, variable
+- **Crime**: Illegal, high risk/reward
+- **Selling Items**: Liquidate assets
+- **Mini-games**: Small amounts
+- **Quest Rewards**: One-time payments
+
+### Expenses
+- **Housing Rent**: $0 to $10,000/day
+- **Food/Drinks**: $3 to $100 per item
+- **Transportation**: $0 to $2,000/day (insurance, gas)
+- **Training**: $0 to $500/session
+- **Entertainment**: $10 to $1,000
+- **Items/Equipment**: $10 to $500,000
+- **Services**: $15 to $500
+
+### Wealth Progression
+- **Broke**: $0 - $1,000 (Starting phase)
+- **Getting By**: $1,000 - $10,000 (Early game)
+- **Comfortable**: $10,000 - $50,000 (Mid game)
+- **Wealthy**: $50,000 - $250,000 (Late game)
+- **Rich**: $250,000 - $1,000,000 (End game)
+- **Ultra Rich**: $1,000,000+ (Complete mastery)
+
+## Karma System
+
+### Karma Scale
+- **Range**: -100 (Evil) to +100 (Good)
+- **Neutral**: 0
+- **Starting Value**: 0
+
+### Gaining Positive Karma
+- Helping NPCs (+5 to +20)
+- Donating to charity (+1 to +10)
+- Refusing illegal activities (+5)
+- Saving people (+20 to +50)
+- Legal jobs (+1 passive)
+- Turning in criminals (+10 to +30)
+
+### Gaining Negative Karma
+- Stealing (-5 to -20)
+- Violence against innocents (-10 to -30)
+- Drug dealing (-5 to -15)
+- Assassination (-50 to -100)
+- Ignoring cries for help (-5)
+- Working for mob (-5 to -20)
+
+### Karma Effects
+- **High Positive (+70 to +100)**:
+  - Discounts at stores
+  - Police favor
+  - Hero reputation
+  - Special "good" ending options
+  - Cannot access criminal content
+  
+- **Moderate Positive (+30 to +69)**:
+  - Generally well-liked
+  - Minor discounts
+  - Some legal advantages
+  
+- **Neutral (-29 to +29)**:
+  - No special treatment
+  - Access to most content
+  - Flexible gameplay
+  
+- **Moderate Negative (-69 to -30)**:
+  - Some NPCs hostile
+  - Police suspicious
+  - Criminal access opening
+  
+- **High Negative (-100 to -70)**:
+  - Criminal reputation
+  - Black market access
+  - Special "evil" ending options
+  - Legal paths limited
+  - Higher police attention
+
+## Combat System
+
+### Combat Stats
+- **Health**: Determined by strength and max health upgrades
+- **Damage**: Based on strength + weapon
+- **Defense**: Based on armor + strength
+- **Speed**: Affects turn order and dodge
+
+### Combat Types
+- **Street Fights**: Random encounters, low stakes
+- **Organized Fights**: Fight club, betting, rankings
+- **Story Battles**: Boss fights, mission-related
+- **Duels**: One-on-one challenges
+
+### Weapons Impact
+- Base damage + weapon damage = total damage
+- Different weapons have different speeds
+- Some weapons have special effects
+- Ammunition management for guns
+
+### Combat Strategy
+- **Strength-based**: High damage, tank approach
+- **Speed-based**: Quick attacks, dodging
+- **Equipped-based**: Rely on weapons/armor
+- **Avoidance**: Run from fights when outmatched
+
+## Relationship System
+
+### Relationship Levels
+1. **Stranger** (0-19): Initial meeting
+2. **Acquaintance** (20-39): Basic interaction
+3. **Friend** (40-59): Regular interaction
+4. **Close Friend** (60-79): Deep connection
+5. **Best Friend/Lover** (80-100): Maximum relationship
+
+### Building Relationships
+- **Conversation**: +1 to +5 per interaction
+- **Gifts**: +5 to +30 based on gift quality
+- **Dates/Activities**: +10 to +20 per date
+- **Quest Completion**: +20 to +50
+- **Time Together**: +1 to +3 passive
+
+### Relationship Benefits
+- **Shop Owners**: Discounts, special items
+- **Quest Givers**: Better rewards, exclusive quests
+- **Romance Options**: Dating, relationship perks
+- **Job Contacts**: Better positions, recommendations
+- **Information Sources**: Tips, secrets, locations
+
+### Relationship Decay
+- **Ignoring NPC**: -1 per day
+- **Standing Up**: -10
+- **Rude Responses**: -5 to -15
+- **Opposing Actions**: -10 to -30
+- **Attacking/Theft**: -50 to -100
+
+## Mini-Games and Activities
+
+### Casino Games
+- **Blackjack**: Card game, skill + luck
+- **Poker**: Texas Hold'em, skill-based
+- **Slots**: Pure luck, various jackpots
+- **Roulette**: Luck-based, various bets
+
+### Sports Activities
+- **Basketball**: Shooting mini-game, strength + skill
+- **Darts**: Precision game, charm + focus
+- **Pool/Billiards**: Angle and power game
+- **Fighting**: Combat mini-game
+
+### Hacking
+- **Puzzle-based**: Intelligence requirement
+- **Rewards**: Money, information, access
+- **Risk**: Can trigger alarms, security
+
+### Racing
+- **Vehicle races**: Speed competitions
+- **Requirements**: Vehicle ownership
+- **Rewards**: Money, reputation, vehicles
+
+### Drinking Games
+- **Bar challenges**: Various drinking contests
+- **Effects**: Temporary stat changes
+- **Social bonding**: Relationship building
+
+## Transportation System
+
+### Movement Speeds
+- **Walking**: 1x base speed
+- **Running**: 1.5x (limited by stamina)
+- **Skateboard**: 2x
+- **Bicycle**: 3x
+- **Scooter**: 3.5x
+- **Car**: 5-12x depending on vehicle
+- **Bus/Taxi**: Instant to destination (with cost)
+- **Helicopter**: Instant island-to-island
+
+### Transportation Costs
+- **Ownership**: One-time purchase
+- **Maintenance**: Insurance, gas, repairs
+- **Public Transit**: Per-trip fees
+- **Convenience vs. Cost**: Trade-offs
+
+## Progression Gates
+
+### Stat Requirements
+- Certain areas require minimum stats to enter
+- Jobs have stat thresholds
+- Story progression tied to stat levels
+
+### Money Gates
+- Bridge tolls between islands
+- Purchase requirements for story items
+- Housing progression
+
+### Relationship Gates
+- NPC relationships unlock content
+- Romance options require relationship levels
+- Faction allegiances open/close paths
+
+### Story Gates
+- Quest completion unlocks areas
+- Story progression reveals new content
+- Choices create branching paths
+
+## Save System
+
+### Save Locations
+- **Bed/Home**: Primary save point
+- **Auto-save**: Daily automatic saves
+- **Quick save**: Optional feature
+- **Multiple Slots**: Different playthroughs
+
+### Save Data Includes
+- Character stats
+- Inventory and money
+- Relationship levels
+- Karma standing
+- Story progress
+- Time and day count
+- Unlocked locations
+- Quest status
+
+## Random Events
+
+### Positive Events
+- Finding money on street
+- Lucky encounters with NPCs
+- Special sales at stores
+- Bonus opportunities
+- Random skill gains
+
+### Negative Events
+- Getting robbed
+- Item breaking
+- Sudden expenses
+- Random fights
+- Bad luck at gambling
+
+### Neutral Events
+- Meeting new NPCs
+- Discovering locations
+- Hearing rumors
+- Weather changes
+- Time-specific events
+
+## Notes for Stick RPG 3
+- Three-stat system provides good balance and variety
+- Time management adds strategic depth
+- Energy system prevents grinding, encourages planning
+- Karma system creates meaningful moral choices
+- Combat should be skill-based, not just stat-based
+- Relationships add personal connection to NPCs
+- Mini-games provide variety and break from main loop
+- Progressive unlocking keeps players engaged
+- Save system should be flexible but not exploitable
+- Random events add unpredictability and replay value
+
+### Potential Improvements for Stick RPG 3
+- **Four-stat system**: Add endurance/stamina stat
+- **Skill trees**: Specialized abilities within stats
+- **Crafting system**: Create items from components
+- **More mini-games**: Variety in activities
+- **Dynamic events**: More random encounters
+- **Weather system**: Affects activities and mood
+- **Reputation**: Separate from karma, faction-based
+- **Achievements**: Reward unusual accomplishments
+- **New Game+**: Carry over some progress
+- **Difficulty settings**: Accessibility options
+- **Multiplayer elements**: Competition, cooperation
+- **Mod support**: Community content
