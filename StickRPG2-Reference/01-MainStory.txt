@@ -1,0 +1,105 @@
+# Stick RPG 2 - Main Story
+
+## Overview
+Stick RPG 2 follows the protagonist who is transported from their dimension into a 2D stick figure world. The main objective is to build a successful life while uncovering the mystery of how to return home or deciding to stay in this new dimension.
+
+## Story Arc
+
+### Beginning
+- Player character is mysteriously transported to the 2D world
+- Wakes up on a park bench with no money, no job, and no place to live
+- Must adapt to survive in this new reality
+- Initial goal: Find shelter, get a job, and build a life
+
+### Early Game
+- Player meets various NPCs who provide guidance
+- Learn about the different islands and opportunities available
+- Discover the existence of the mysterious "Director" character
+- Begin to uncover clues about dimensional travel
+
+### Mid Game
+- Unlock access to new islands through stat requirements and story progression
+- Meet Professor Ansel who provides information about dimensional science
+- Discover the X-Gen Energy Drink and its mysterious properties
+- Learn about the Corporation and its influence over the city
+
+### Late Game
+- Confront the Director and learn the truth about dimensional travel
+- Make critical choices about returning home vs. staying
+- Complete various side missions that flesh out the world's lore
+- Achieve one of multiple endings based on player choices and stats
+
+## Key Story Elements
+
+### The Director
+- Mysterious figure who seems to control aspects of the dimensional reality
+- Final confrontation reveals deeper truths about the 2D world
+- Connected to the Corporation and dimensional experiments
+
+### Professor Ansel
+- Scientist who studies dimensional travel
+- Provides equipment and knowledge to the player
+- Key ally in understanding how to navigate between dimensions
+
+### The Corporation
+- Powerful business entity controlling much of the city
+- Connected to dimensional experiments and X-Gen Energy Drink
+- Offers high-paying jobs but with questionable ethics
+
+### Dimensional Travel
+- Central mystery of the game
+- X-Gen Energy Drink is somehow connected to dimensional properties
+- Multiple theories and explanations provided throughout the game
+
+## Endings
+
+### Return Home Ending
+- Requires specific stat thresholds and story completion
+- Player finds a way back to the 3D dimension
+- Leaves the 2D world behind
+
+### Stay in 2D Ending
+- Player decides to remain in the stick figure dimension
+- Can achieve various levels of success (from homeless to CEO)
+- Multiple variations based on wealth, relationships, and karma
+
+### Ultimate Ending
+- Requires maximum stats and completion of all major questlines
+- Unlocks special content and achievements
+- Player becomes a master of both dimensions
+
+## Side Storylines
+
+### The Mobster Connection
+- Interact with organized crime elements
+- Choose to work with or against the criminal underworld
+- Affects karma and available opportunities
+
+### The Casino Heist
+- Optional major side quest
+- Requires high stats and specific items
+- Can lead to massive wealth or catastrophic failure
+
+### Romance Storylines
+- Multiple relationship options with different NPCs
+- Each has their own mini-storyline and requirements
+- Affects ending variations
+
+### The Mystery of the Z Island
+- Hidden area with special challenges
+- Contains end-game content
+- Reveals additional lore about the dimensional nature of the world
+
+## Themes
+- Identity and adaptation in a strange world
+- Balance between ethics and success
+- The nature of reality and dimensions
+- Personal growth and self-improvement
+- Choice and consequence
+
+## Notes for Stick RPG 3
+- Consider expanding the dimensional travel concept
+- Build on the mystery element that drove player engagement
+- Multiple endings based on player choices were well-received
+- NPCs with deeper storylines add replay value
+- Balance between sandbox freedom and narrative direction

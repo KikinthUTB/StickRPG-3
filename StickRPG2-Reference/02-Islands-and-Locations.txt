@@ -1,0 +1,182 @@
+# Stick RPG 2 - Islands and Locations
+
+## Island Overview
+Stick RPG 2 features multiple islands that unlock as the player progresses and meets certain requirements.
+
+## Main Island (Starting Island)
+
+### Residential Areas
+- **Park Bench** - Starting location, where player wakes up
+- **Apartment Complex** - Low-cost housing option ($500/day rent)
+- **Trailer Park** - Cheap alternative housing
+- **2D Suburbs** - Mid-tier housing area
+- **Penthouse** - High-end housing (requires high income and stats)
+
+### Commercial District
+- **Convenience Store** - Buy basic items, energy drinks, food
+- **Gun Store** - Purchase weapons (requires license)
+- **Car Dealership** - Buy vehicles for faster travel
+- **Furniture Store** - Buy items to furnish your living space
+- **Electronics Store** - Computers, phones, and gadgets
+- **Clothing Store** - Outfits that affect charm and appearance
+
+### Work Locations
+- **McDonald's Parody (McStick's)** - Entry-level job
+- **Convenience Store** - Cashier position
+- **Mall** - Various retail positions
+- **Construction Site** - Manual labor, requires strength
+- **Office Building** - Corporate jobs, requires intelligence
+- **Law Firm** - High-paying legal work, high intelligence required
+- **Stock Market** - Trading floor, very high requirements
+
+### Educational
+- **University** - Study to increase intelligence
+- **Library** - Free but slower intelligence gain
+- **2D Gym** - Work out to increase strength
+- **Fight Club** - Illegal fighting for money and strength
+
+### Entertainment
+- **Bar/Pub** - Socialize, drink, play darts
+- **Casino** - Gambling mini-games (Blackjack, Slots, Poker)
+- **Movie Theater** - Watch films, dates
+- **Nightclub** - Late-night activities, meet NPCs
+- **Skateboard Park** - Recreation area
+- **Basketball Court** - Sports activities
+
+### Special Locations
+- **Bank** - Deposit/withdraw money, get loans
+- **Hospital** - Heal injuries, increase max health
+- **Police Station** - Pay fines, bail, get gun license
+- **City Hall** - Government services, marriage license
+
+## The Second Island
+
+### Unlocking Requirements
+- Intelligence: 300+
+- Charm: 200+
+- Money: $5,000 for bridge toll or season pass
+
+### Key Locations
+- **Beach Area** - Recreational zone
+- **Seafood Restaurant** - High-end dining and job opportunity
+- **Yacht Club** - Exclusive social venue
+- **Marine Biology Lab** - Scientific jobs
+- **Surf Shop** - Beach equipment and clothing
+- **Beach House** - Premium housing option
+- **Tiki Bar** - Tropical themed entertainment
+- **Lighthouse** - Scenic location, contains story elements
+
+### Story Missions on Second Island
+- Professor Ansel's Lab (dimensional research)
+- Beach Cleanup Mission
+- Yacht Race Event
+- Coral Reef Investigation
+
+## The Third Island (Industrial Island)
+
+### Unlocking Requirements
+- Strength: 400+
+- Intelligence: 350+
+- Completion of certain story missions
+
+### Key Locations
+- **Factory Complex** - Manufacturing jobs
+- **Warehouse District** - Storage and logistics work
+- **Chemical Plant** - Dangerous but high-paying work
+- **Industrial Gym** - Advanced strength training
+- **Worker's Union Hall** - Special job opportunities
+- **Scrapyard** - Find/sell items
+- **Power Plant** - Technical positions
+- **Shipping Docks** - Import/export jobs
+
+### Story Missions on Third Island
+- Factory Safety Investigation
+- Chemical Spill Response
+- Union Negotiation Quest
+- Industrial Sabotage Mystery
+
+## The Fourth Island (Corporate/Executive Island)
+
+### Unlocking Requirements
+- All stats: 500+
+- Net worth: $50,000+
+- Corporate reputation
+
+### Key Locations
+- **Corporate Headquarters** - CEO and executive positions
+- **Executive Club** - Ultra-exclusive socializing
+- **Private Airport** - Fast travel between islands
+- **Penthouse Suites** - Ultimate housing
+- **Stock Exchange** - Advanced trading
+- **Executive Golf Course** - Networking and deals
+- **Five-Star Restaurant** - Luxury dining
+- **Private Hospital** - Premium healthcare
+
+### Story Missions on Fourth Island
+- Corporate Takeover Quest
+- Insider Trading Investigation
+- Board Meeting Challenges
+- Director Confrontation (Final Story Mission)
+
+## Hidden/Secret Locations
+
+### The Z Island (Secret Island)
+- **Unlocking**: Hidden requirements, mysterious clues
+- **Location**: Contains end-game challenges
+- **Features**: 
+  - Special training facilities
+  - Unique items and weapons
+  - Dimensional portal experiments
+  - Secret boss encounters
+
+### Underground Locations
+- **Subway System** - Fast travel network
+- **Sewer Tunnels** - Hidden passages between islands
+- **Secret Fight Club** - Underground combat
+- **Black Market** - Illegal goods and services
+
+### Seasonal/Time-Based Locations
+- **Rooftop Parties** - Night-time only
+- **Secret Beach** - Accessible during specific conditions
+- **Abandoned Warehouse** - Mission-specific location
+
+## Mission Locations Reference
+
+### Early Missions (Main Island)
+- "First Day" - Park Bench, Apartment Complex
+- "Get a Job" - Various work locations
+- "Study Hard" - Library, University
+- "Make Friends" - Bar, Nightclub
+
+### Mid Missions (Multiple Islands)
+- "Island Hopping" - Bridge between islands
+- "Corporate Ladder" - Office buildings, Corporate Island
+- "Beach Party" - Second Island beach
+- "Factory Blues" - Industrial Island
+
+### Late Missions (All Islands)
+- "The Director's Plan" - Corporate Island HQ
+- "Dimensional Secrets" - Professor Ansel's Lab
+- "Ultimate Challenge" - Z Island
+- "Coming Home" - Final mission locations
+
+## Transportation Between Islands
+
+### Methods
+- **Walking** - Free, slow, only nearby areas
+- **Skateboard** - Faster than walking, unlocked early
+- **Bicycle** - Moderate speed, good stamina
+- **Car** - Fast travel, requires purchase and insurance
+- **Bus** - Public transit, cheap, moderate speed
+- **Taxi** - Quick but expensive
+- **Helicopter** - Late game, very fast, very expensive
+- **Bridge Tolls** - Pay per crossing or buy season pass
+
+## Notes for Stick RPG 3
+- Progressive island unlocking creates good progression curve
+- Mix of required stats and story progression for access worked well
+- Fast travel options become important as world expands
+- Each island having distinct theme and opportunities prevents monotony
+- Hidden locations add exploration value
+- Consider making more locations interactive with unique mini-games
+- More dynamic events in locations (time-based, random encounters)
