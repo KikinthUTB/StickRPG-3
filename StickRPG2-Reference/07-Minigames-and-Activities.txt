@@ -1,0 +1,38 @@
+# Stick RPG 2 - Minigames and Activities
+
+## Overview
+Gameplay in Stick RPG 2 is broken up by various "Minigames" that handle Stat Progression and Entertainment. This is a key design pillar: **Stats are not gained just by clicking a button, but by playing a game.**
+
+## Gym Minigames (Strength Training)
+Instead of just "Working Out," the player plays active minigames.
+*   **Bench Press:** A rhythm/timing game. A bar moves up and down, and the player must click when it's in the green zone to lift the weight.
+    *   **Success:** Strength Gain.
+    *   **Failure:** The bar crushes the stick figure (Health Loss).
+*   **Treadmill:** Rapid clicking or button mashing to keep speed up.
+*   **Sparring / Boxing:** A simplified version of the main combat. You fight an NPC in a ring.
+    *   **Win:** Large Strength gain + Money.
+    *   **Lose:** Health loss.
+
+## University Minigames (Intelligence Training)
+*   **Classroom:** Often represented by simple math problems or memory tests.
+    *   *Example:* "What is 12 x 12?" or a pattern replication game.
+*   **Chess:** A simplified AI chess match (or just a "stat check" roll in some versions).
+*   **Tutoring:** Passive gain (costing money).
+
+## Casino Minigames (Gambling)
+The fastest way to get rich or go broke.
+*   **Blackjack:** Standard 21 rules.
+*   **Roulette:** Bet on numbers/colors.
+*   **Slots:** Pure RNG. Visuals are of various stick rpg items (Sword, Burger, etc.).
+*   **Horse/Unicorn Racing:** Bet on a racer. You watch them run across the screen. Pure RNG but exciting.
+
+## Job-Specific Minigames
+Some jobs have unique active elements (in Director's Cut or specific versions):
+*   **Lumberjack:** A "Chopping" minigame where you must click to saw through the tree while avoiding obstacles or hitting specific zones.
+*   **Bartending:** Mixing drinks (Recipe memory).
+*   **Hacking:** Typing code or avoiding firewalls in a matrix-style interface.
+
+## Notes for Stick RPG 3
+*   **Feedback:** The minigames in SR2 were fun at first but became repetitive grinding tools.
+*   **SR3 Idea:** Add "Auto-Complete" or "Skip" options for minigames once the player reaches a certain mastery level, or make the minigames evolve/get harder (and more rewarding) as stats increase.
+*   **Cheating:** In SR2, simple games like Math or Trivia were easily cheated. SR3 should focus on **Skill/Reflex** based minigames (like the Bench Press) which are harder to "wiki" your way through.

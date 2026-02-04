@@ -1,0 +1,27 @@
+# Stick RPG 2 - Art Style and Aesthetics
+
+## The "Paper Thin" Look
+*   **Perspective:** 2.5D Isometric. The world is flat (2D sprites) placed on a 3D-ish isometric grid.
+*   **Characters:** Stick figures.
+    *   **Heads:** Round circles.
+    *   **Bodies:** Single lines.
+    *   **Colors:** The main differentiator. The Player is usually Blue/custom. Enemies are Red/Black.
+*   **Environment:** "Cardboard" aesthetic. Buildings look like flat cutouts standing up.
+
+## Customization
+*   **Skin Color:** Pick your stick color.
+*   **Hats/Hair:** The primary way to look unique. Afros, Caps, Helmets.
+*   **Clothes:** Unlike realistic RPGs, "Clothes" in Stick RPG often just mean a texture overlay or a physical accessory (like a Suit Jacket) that floats over the stick body.
+
+## Visual Humor
+*   **Exaggeration:** Weapons are often larger than the character wielding them (Giant Swords).
+*   **Gore:** When a stick figure dies, they might fall apart into segments or bleed exaggerated amounts of 2D blood (toggleable usually).
+
+## Animations
+*   **Walk Cycle:** The iconic "leg swinging" walk.
+*   **Combat:** Fast, choppy animations. No motion blur. It feels snappy.
+
+## Notes for Stick RPG 3
+*   **Evolution:** Don't go full 3D. The charm is in the **2D-in-a-3D-world** look.
+*   **Lighting:** Modern lighting effects (dynamic shadows, neon glow at night) on top of the 2D sprites would look incredible (think *Octopath Traveler* but for Stick Figures).
+*   **Density:** Add more "clutter" to the world. Trash cans, benches, birds. SR2 was sometimes a bit barren.

@@ -1,0 +1,31 @@
+# Stick RPG 2 - UI and User Experience (UX)
+
+## The Interface
+The Game UI is designed to mimic a modern (for 2011) operating system or PDA.
+
+### Main HUD (Heads-Up Display)
+*   **Top Left:** Character Portrait & HP Bar / Energy Bar.
+*   **Top Right:** Current Time (Digital Clock), Day Counter, Cash ($).
+*   **Bottom:** Toolbar / Dock (Inventory, Phone, Map, Stats).
+
+### The "Phone" Menu
+All major game functions are accessed via the on-screen Cell Phone.
+*   **Stats App:** Shows STR, INT, CHM bars.
+*   **Jobs App:** Shows current job, shift progress, and promotion requirements.
+*   **Map:** A GPS view of the islands.
+*   **Inventory:** Grid-based usage. Drag and drop to equip.
+
+### Dialogue System
+*   **Type:** Bubble speech above characters' heads.
+*   **Style:** RPG-style scrolling text.
+*   **Choices:** Simple list (1. Yes, 2. No, 3. Sarcastic).
+
+## UX Considerations
+*   **Inventory Management:** In SR2, inventory space was limited. You had to buy "Backpacks" to expand it.
+*   **Time Visibility:** The clock is always ticking. The UI flashes red when Energy is low or it's late at night (Warning player to sleep).
+*   **Feedback:** Leveling up or gaining a stat point creates a floating text "+1 STR" above the character's head.
+
+## Notes for Stick RPG 3
+*   **The Phone:** This is a perfect metaphor that has aged well. In SR3, the phone should be a smartphone with "Apps" for everything (Uber parody for travel, Tinder parody for dating, Crypto app for stocks).
+*   **Minimap:** SR2 didn't always have the best navigation. A persistent mini-map in the corner would be a huge QoL improvement.
+*   **Quest Log:** SR2 quests were often vague. A dedicated "Quest App" with checklists is needed.

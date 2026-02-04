@@ -1,105 +1,67 @@
-# Stick RPG 2 - Main Story
+# Stick RPG 2 - Main Story and Quest Roadmap
 
-## Overview
-Stick RPG 2 follows the protagonist who is transported from their dimension into a 2D stick figure world. The main objective is to build a successful life while uncovering the mystery of how to return home or deciding to stay in this new dimension.
+## Core Narrative
+The protagonist "The Player" falls from the 3rd Dimension into "Paper Thin City", a 2D world. The main goal is to navigate this strange world, amass power/wealth/karma, and ultimately find a way to return home (or rule this world).
 
-## Story Arc
+## The Main Quest: Dimensional Objects
+The central plot revolves around **Professor Ansel**, a scientist studying dimensional physics. To open the path home (or to power), you must collect three **4D Objects**.
 
-### Beginning
-- Player character is mysteriously transported to the 2D world
-- Wakes up on a park bench with no money, no job, and no place to live
-- Must adapt to survive in this new reality
-- Initial goal: Find shelter, get a job, and build a life
+### 1. The 4D Hypercube
+**Description:** A cube that exists in 4 dimensions.
+**How to Obtain:**
+*   **Positive Karma Path:** Defeat **Chess Master Chase** (Yellow Head) at the University. Requires **500+ Intelligence**.
+*   **Negative Karma Path:** Bail out the **Nigerian Prince** at the Police Station. Costs **$10,000**.
 
-### Early Game
-- Player meets various NPCs who provide guidance
-- Learn about the different islands and opportunities available
-- Discover the existence of the mysterious "Director" character
-- Begin to uncover clues about dimensional travel
+### 2. The Klein Bottle
+**Description:** A bottle with no inside or outside.
+**How to Obtain:**
+*   **Positive Karma Path:** Buy a **Self-Help Book** ($120 from Wally! Mart) and give it to the **Suicidal Goth Dude** on Island 1.
+*   **Negative Karma Path:** Buy **Painkillers** ($85 from Wally! Mart) and give them to the Suicidal Goth Dude.
+*   **Alternative (Strength):** Beat **Broski** in an arm-wrestling match at The Club (Nighttime). Requires **500+ Strength**.
 
-### Mid Game
-- Unlock access to new islands through stat requirements and story progression
-- Meet Professor Ansel who provides information about dimensional science
-- Discover the X-Gen Energy Drink and its mysterious properties
-- Learn about the Corporation and its influence over the city
+### 3. The Mobius Strip
+**Description:** A loop with only one side.
+**How to Obtain:**
+*   **Requirements:** You need **3 Bags of Coca**.
+*   **Positive Karma Path:** Turn the Coca in to a Cop at the Police Station.
+*   **Negative Karma Path:** Give the Coca to the **Cocaine Cowboy** (a drug dealer NPC).
 
-### Late Game
-- Confront the Director and learn the truth about dimensional travel
-- Make critical choices about returning home vs. staying
-- Complete various side missions that flesh out the world's lore
-- Achieve one of multiple endings based on player choices and stats
+## The Climax: Professor Ansel's Lab
+Once you have all three objects:
+1.  Give them to **Professor Ansel** (found in the University/Lab area).
+2.  He gives you the **Lab Key**.
+3.  Enter the Secret Lab (Island 1, near the start).
+4.  **Boss Fight:** Defeat Ansel's henchmen and then **Professor Ansel** himself. He is tough; bring a Minigun or powerful melee weapon and plenty of food/meds.
 
-## Key Story Elements
+## The Endings
+After defeating Ansel, three portals appear. Your choice determines the ending. Karma does *not* force an ending; it is a player choice.
 
-### The Director
-- Mysterious figure who seems to control aspects of the dimensional reality
-- Final confrontation reveals deeper truths about the 2D world
-- Connected to the Corporation and dimensional experiments
+### 1. Left Portal (The TV Ending)
+*   **Outcome:** You return to the 2D world of the original *Stick RPG 1*.
+*   **Visual:** The game view zooms out to show the world on an old distortion TV screen.
+*   **Lore:** You are back where it all started, but stuck in the past.
 
-### Professor Ansel
-- Scientist who studies dimensional travel
-- Provides equipment and knowledge to the player
-- Key ally in understanding how to navigate between dimensions
+### 2. Middle Portal (Main Menu)
+*   **Outcome:** The game simply ends and boots you to the Main Menu.
+*   **Metaphor:** The "Anti-Ending". You break the game loop essentially by quitting.
 
-### The Corporation
-- Powerful business entity controlling much of the city
-- Connected to dimensional experiments and X-Gen Energy Drink
-- Offers high-paying jobs but with questionable ethics
+### 3. Right Portal (New Game +)
+*   **Outcome:** The "True" loop. You restart the game from Day 1.
+*   **Retained:** Strength, Intelligence, Charm stats. Trophies.
+*   **Reset:** Money, Items, Jobs, Karma (resets to 0).
+*   **Purpose:** Allows you to grind for the Director's Cut "God" jobs (Dark Lord/Light Knight) which require massive stats.
 
-### Dimensional Travel
-- Central mystery of the game
-- X-Gen Energy Drink is somehow connected to dimensional properties
-- Multiple theories and explanations provided throughout the game
+## Major Side Storylines
 
-## Endings
+### The Good vs. Evil Bird Hunt
+*   **Collect:** 4 Rare **Trophemon** (Birds) scattered around the world (give Ladder to Old Lady, etc.).
+*   **Good Choice:** Give to the **Activists**. Reward: **Hoverboard** (Fastest vehicle) + Positive Karma.
+*   **Evil Choice:** Give to the **Eccentric Millionaire**. Reward: **$12,000** + Negative Karma.
 
-### Return Home Ending
-- Requires specific stat thresholds and story completion
-- Player finds a way back to the 3D dimension
-- Leaves the 2D world behind
+### The Mystery of the "Other" Island
+*   **Construction:** Mike the construction worker is building a new island.
+*   **Truth:** It never truly finishes in the base game loop, serving as a perpetual "coming soon" joke or a location for specific mod/cheat access (Z-Island).
 
-### Stay in 2D Ending
-- Player decides to remain in the stick figure dimension
-- Can achieve various levels of success (from homeless to CEO)
-- Multiple variations based on wealth, relationships, and karma
-
-### Ultimate Ending
-- Requires maximum stats and completion of all major questlines
-- Unlocks special content and achievements
-- Player becomes a master of both dimensions
-
-## Side Storylines
-
-### The Mobster Connection
-- Interact with organized crime elements
-- Choose to work with or against the criminal underworld
-- Affects karma and available opportunities
-
-### The Casino Heist
-- Optional major side quest
-- Requires high stats and specific items
-- Can lead to massive wealth or catastrophic failure
-
-### Romance Storylines
-- Multiple relationship options with different NPCs
-- Each has their own mini-storyline and requirements
-- Affects ending variations
-
-### The Mystery of the Z Island
-- Hidden area with special challenges
-- Contains end-game content
-- Reveals additional lore about the dimensional nature of the world
-
-## Themes
-- Identity and adaptation in a strange world
-- Balance between ethics and success
-- The nature of reality and dimensions
-- Personal growth and self-improvement
-- Choice and consequence
-
-## Notes for Stick RPG 3
-- Consider expanding the dimensional travel concept
-- Build on the mystery element that drove player engagement
-- Multiple endings based on player choices were well-received
-- NPCs with deeper storylines add replay value
-- Balance between sandbox freedom and narrative direction
+## Stick RPG 3 Notes
+*   **Key Takeaway:** The "Fetch Quest" structure (3 artifacts) was simple but effective because each artifact had multiple solutions (Combat vs Money vs Smarts).
+*   **Improvement:** Stick RPG 2's story was loose. SR3 could verify the "multiple solution" design but add more narrative depth to the antagonists.

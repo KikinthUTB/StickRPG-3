@@ -1,337 +1,37 @@
 # Stick RPG 2 - Characters and NPCs
 
-## Main Characters
+## The Cast
+Stick RPG 2's cast is defined by pop-culture references, internet memes (of the early 2010s), and humorous stereotypes.
 
-### The Player Character
-- **Role**: Protagonist
-- **Background**: Transported from 3D dimension to 2D stick world
-- **Customization**: Name, appearance choices
-- **Development**: Player-driven stats and personality
-- **Goal**: Survive, thrive, and potentially find way home
+### Key Story NPCs
+*   **Professor Ansel:** The "Doc Brown" of the game. Mad scientist. Gives the main quest (Find 4D objects).
+*   **The Director:** Meta-antagonist in the Director's Cut.
+*   **Tutorial Ted:** Meets you at the start. Teaches you how to walk. Usually gets beaten up.
 
-### The Director
-- **Role**: Primary antagonist/mysterious figure
-- **Location**: Corporate HQ - Executive Island (late game)
-- **Importance**: Central to main story
-- **Personality**: Mysterious, powerful, controlling
-- **Story**: Controls aspects of dimensional reality
-- **Interaction**: Final confrontation, reveals truths
-- **Unlocks**: End-game content, multiple ending paths
+### Quest Givers
+*   **Suicidal Goth Dude:** Found on Island 1. Depressed. Gives specific rewards based on whether you help him (Self-Help Book) or enable him (Painkillers).
+*   **Nigerian Prince:** A scammer in jail. If you bail him out ($10k), you get the **Hypercube** (Negative Karma path).
+*   **Chess Master Chase (Yellow Head):** The smartest stick figure. Beating him in chess (requires 500 INT) yields the **Hypercube** (Positive Karma path).
+*   **Mike (Construction Worker):** Always hungry. Giving him a Grand Slam Burger is a sub-quest. He is "building" the new island forever.
+*   **The Activists:** Want to save nature. Quest for Trophemon birds.
+*   **Eccentric Millionaire:** Wants to eat/stuff the rare birds. Quest for Trophemon birds.
 
-### Professor Ansel
-- **Role**: Key ally, scientist NPC
-- **Location**: Research Laboratory - Second Island
-- **Importance**: Story progression, dimensional research
-- **Personality**: Eccentric, brilliant, helpful
-- **Story**: Studies dimensional travel, helps player understand their situation
-- **Interaction**: 
-  - Provides quests
-  - Gives scientific equipment
-  - Explains lore
-  - Optional romance path
-- **Unlocks**: Lab access, special items, story missions
+### Cultural References / Memes
+*   **Sad Keanu:** Based on the Keanu Reeves meme. Sits on a bench eating a sandwich/ cupcake.
+*   **Broski:** A "Gym Bro" stereotype. Challenges you to arm wrestling.
+*   **Barren Wuffet:** Financial guru archetype.
+*   **Alien Andy:** Conspiracy theorist or actual alien contact.
+*   **Recon Bob:** Military nut.
 
-## Romantic Interests
+### Shopkeepers & Service
+*   **Bartender:** Serves drinks (Charm boost).
+*   **Fake ID Seller:** Shady guy in the alley.
+*   **Gun Store Clerk:** Usually armed.
 
-### Sarah
-- **Role**: Love interest option
-- **Location**: University Library, Coffee Shop
-- **Requirements**: Intelligence 200+, Charm 150+
-- **Personality**: Intelligent, sweet, studious
-- **Interests**: Books, coffee, deep conversations
-- **Story Arc**: Student struggling with dimensional physics thesis
-- **Gifts She Likes**: Books, flowers, coffee
-- **Relationship Milestones**:
-  - Meet at library
-  - Study dates
-  - Help with thesis
-  - Coffee shop conversations
-  - Relationship commitment
-- **Benefits**: Intelligence boost when together, study partner
-
-### Tiffany
-- **Role**: Love interest option
-- **Location**: Nightclub, Shopping Mall
-- **Requirements**: Charm 250+, Money (for dates)
-- **Personality**: Outgoing, party-lover, fashionable
-- **Interests**: Dancing, shopping, nightlife
-- **Story Arc**: Socialite looking for exciting relationship
-- **Gifts She Likes**: Jewelry, designer clothes, champagne
-- **Relationship Milestones**:
-  - Meet at club
-  - Party invitations
-  - Shopping trips
-  - VIP events
-  - Relationship commitment
-- **Benefits**: Charm boost, party connections, social perks
-
-### Johnny (Male romance option)
-- **Role**: Love interest option
-- **Location**: Gym, Sports Complex
-- **Requirements**: Strength 200+, Charm 150+
-- **Personality**: Athletic, competitive, encouraging
-- **Interests**: Sports, fitness, healthy lifestyle
-- **Story Arc**: Former pro athlete turned trainer
-- **Gifts He Likes**: Sports equipment, protein shakes, concert tickets
-- **Relationship Milestones**:
-  - Meet at gym
-  - Workout sessions together
-  - Sports events
-  - Fitness challenges
-  - Relationship commitment
-- **Benefits**: Strength boost, gym perks, athletic connections
-
-### Victoria
-- **Role**: Love interest option
-- **Location**: Corporate Building, Executive Club
-- **Requirements**: All stats 300+, Business suit, $50,000+ net worth
-- **Personality**: Ambitious, sophisticated, intelligent
-- **Interests**: Business, fine dining, success
-- **Story Arc**: Rising executive with secrets
-- **Gifts She Likes**: Expensive jewelry, wine, business opportunities
-- **Relationship Milestones**:
-  - Professional introduction
-  - Business dinners
-  - Corporate events
-  - Power couple status
-  - Relationship commitment
-- **Benefits**: Corporate connections, business opportunities, status
-
-## Quest-Giving NPCs
-
-### Old Man Jenkins
-- **Role**: Mentor figure
-- **Location**: Park, usually near bench
-- **Personality**: Wise, mysterious, helpful
-- **Quests**: 
-  - Tutorial missions
-  - Life advice quests
-  - Hidden knowledge missions
-- **Story**: Knows more than he lets on about dimensional travel
-- **Rewards**: Wisdom, stat books, story clues
-
-### Detective Morgan
-- **Role**: Police contact
-- **Location**: Police Station
-- **Requirements**: Positive karma for most quests
-- **Personality**: Professional, justice-oriented, tough
-- **Quests**:
-  - Crime investigations
-  - Missing person cases
-  - Corruption in the city
-- **Story**: Investigating The Corporation
-- **Rewards**: Money, gun license, police connections
-
-### Marcus "The Fence"
-- **Role**: Black market dealer
-- **Location**: Back alleys, warehouse district
-- **Requirements**: Negative karma or criminal connections
-- **Personality**: Shady, opportunistic, connected
-- **Quests**:
-  - Steal specific items
-  - Deliver packages (no questions)
-  - Illegal trading missions
-- **Story**: Gateway to criminal underworld
-- **Rewards**: Illegal items, black market access, dirty money
-
-### Samantha Lee (Reporter)
-- **Role**: Journalist NPC
-- **Location**: News Station, Coffee Shops
-- **Personality**: Curious, determined, investigative
-- **Quests**:
-  - Gather evidence on Corporation
-  - Interview important figures
-  - Investigate mysterious events
-- **Story**: Uncovering truth about dimensional experiments
-- **Rewards**: Information, media exposure, story progression
-
-### Chef Antonio
-- **Role**: Restaurant owner
-- **Location**: Five-Star Restaurant - Second Island
-- **Personality**: Passionate, perfectionist, generous
-- **Quests**:
-  - Ingredient gathering
-  - Food critic challenges
-  - Cooking competitions
-- **Story**: Dreams of ultimate restaurant
-- **Rewards**: Free meals, cooking skills, restaurant partnership
-
-### Yuki (Tech Guru)
-- **Role**: Hacker/Tech expert
-- **Location**: Underground tech shop, internet café
-- **Personality**: Brilliant, antisocial, helpful to friends
-- **Quests**:
-  - Hacking missions
-  - Computer repair jobs
-  - Digital investigations
-- **Story**: Discovering digital evidence of dimensional manipulation
-- **Rewards**: Hacking tools, tech upgrades, information
-
-## Business Owners and Service NPCs
-
-### Mr. Thompson (Bank Manager)
-- **Location**: Main Island Bank
-- **Role**: Banking services
-- **Personality**: Professional, by-the-book
-- **Services**: Loans, savings accounts, financial advice
-- **Story**: Connected to city's financial elite
-
-### Big Tony (Gym Owner)
-- **Location**: 2D Gym
-- **Role**: Fitness trainer, gym access
-- **Personality**: Tough, motivational, fair
-- **Services**: Training programs, equipment access
-- **Story**: Former underground fighter
-
-### Dr. Reynolds
-- **Location**: Hospital
-- **Role**: Healthcare provider
-- **Personality**: Professional, caring, overworked
-- **Services**: Healing, health upgrades, medical advice
-- **Story**: Investigating strange injuries related to dimensional rifts
-
-### Vladimir (Casino Owner)
-- **Location**: Casino - Main Island
-- **Role**: Gambling services, potential quest giver
-- **Personality**: Smooth, calculating, dangerous
-- **Services**: Gambling games, high-stakes poker
-- **Story**: Connection to organized crime
-- **Quests**: Casino heist (player can be on either side)
-
-## Antagonistic NPCs
-
-### The Mob Boss
-- **Role**: Criminal organization leader
-- **Location**: Secret locations, contacted through underworld
-- **Personality**: Ruthless, business-minded, powerful
-- **Conflict**: Can work for or against player
-- **Story**: Controls illegal operations, rival to Corporation
-- **Interaction**: Offers criminal jobs or becomes enemy
-
-### Corporate Goons
-- **Role**: Corporation enforcers
-- **Location**: Guarding corporate facilities
-- **Personality**: Loyal, intimidating, following orders
-- **Conflict**: Block player access to certain areas
-- **Story**: Work for The Director
-- **Combat**: Can be fought or avoided
-
-### Rival Character (Chad)
-- **Role**: Competitive rival
-- **Location**: Various locations, mirrors player progress
-- **Personality**: Arrogant, skilled, competitive
-- **Conflict**: Competes for jobs, romantic interests, achievements
-- **Story**: Alternative dimensional traveler
-- **Interaction**: 
-  - Challenges player to competitions
-  - Tries to sabotage player
-  - Can become ally in final missions
-
-### Corrupt Cop Martinez
-- **Role**: Crooked police officer
-- **Location**: Police Station, back alleys
-- **Personality**: Greedy, corrupt, dangerous
-- **Conflict**: Demands bribes, threatens player
-- **Story**: On Corporation payroll
-- **Interaction**: Can expose or work with
-
-## Supporting NPCs
-
-### Barry (Bartender)
-- **Location**: Main Bar
-- **Personality**: Friendly, gossip source, listener
-- **Services**: Drinks, rumors, social hub
-- **Information**: Knows everyone's business
-
-### Linda (Apartment Manager)
-- **Location**: Apartment Complex
-- **Personality**: Grumpy but fair
-- **Services**: Housing rentals, storage
-- **Quests**: Building maintenance, tenant problems
-
-### Steve (Car Dealer)
-- **Location**: Car Dealership
-- **Personality**: Salesman, enthusiastic, slightly pushy
-- **Services**: Vehicle sales, insurance, trade-ins
-- **Deals**: Negotiation-based pricing
-
-### Maya (Clothing Store Owner)
-- **Location**: Fashion District
-- **Personality**: Trendy, helpful, fashion-forward
-- **Services**: Clothing sales, style advice
-- **Benefits**: Discounts for regular customers
-
-### DJ Spin Master
-- **Location**: Nightclub
-- **Personality**: Cool, laid-back, connected
-- **Services**: Entertainment, party information
-- **Quests**: Music-related missions, party organization
-
-### Mrs. Chen (Convenience Store Owner)
-- **Location**: Convenience Store
-- **Personality**: Hard-working, kind, neighborhood staple
-- **Services**: Basic items, gossip, community connection
-- **Story**: Long-time resident, knows island history
-
-## Random Encounter NPCs
-
-### Street Thugs
-- **Occurrence**: Random encounters in bad neighborhoods
-- **Interaction**: Combat or intimidation
-- **Rewards**: Money if defeated, items
-
-### Panhandlers
-- **Occurrence**: Common in city streets
-- **Interaction**: Give money or ignore
-- **Karma**: Affects karma system
-
-### Street Performers
-- **Occurrence**: Public areas
-- **Interaction**: Watch performance, give tips
-- **Benefits**: Entertainment, small stat boosts
-
-### Lost Tourists
-- **Occurrence**: Random encounters
-- **Interaction**: Give directions for reward
-- **Rewards**: Money, items, karma
-
-## Faction Representatives
-
-### Corporation Representative
-- **Name**: Ms. Sterling
-- **Role**: Recruiter for The Corporation
-- **Location**: Corporate Building
-- **Offers**: High-paying jobs, corporate path
-- **Story**: Gateway to corporate storyline
-
-### Union Leader
-- **Name**: Frank Martinez
-- **Role**: Workers' rights advocate
-- **Location**: Union Hall - Industrial Island
-- **Offers**: Worker protection, union jobs
-- **Story**: Opposition to corporate control
-
-### Underground Leader
-- **Name**: Shadow (real name unknown)
-- **Role**: Criminal network leader
-- **Location**: Secret underground locations
-- **Offers**: Criminal opportunities, black market
-- **Story**: Alternative power structure to Corporation
+## Factions
+*   **The Police:** Will arrest you for carrying weapons without license, or for drug possession. Interact via "Bribes" or "Surrender".
+*   **The Gangs (Westside/Eastside):** Color-coded stick figure gangs. roaming the streets. Initiating combat with them is a good way to grind Combat stats.
 
 ## Notes for Stick RPG 3
-- NPCs with depth and personality make the world feel alive
-- Multiple romance options with different requirements = replayability
-- Quest-givers should have their own stories and motivations
-- Rival/antagonist characters add drama and competition
-- Service NPCs with personality make routine tasks more engaging
-- Random encounters keep exploration interesting
-- Faction system through NPCs creates meaningful choices
-- Consider adding:
-  - More NPC interactions and dialogue trees
-  - NPC schedules and routines
-  - Friendship systems beyond romance
-  - NPC conflicts that require player mediation
-  - More consequence for NPC relationships
-  - NPCs that remember player actions
-  - Dynamic NPC reactions to player's reputation
-  - Group activities with multiple NPCs
+*   **Humor:** The NPCs are essentially walking jokes. Stick RPG 3 needs to update the humor for the modern era (2020s memes?) while keeping the charm.
+*   **Interactivity:** Most NPCs are simple "Quest Givers" or "Punching Bags". SR3 could add relationship meters or extensive dialogue trees.

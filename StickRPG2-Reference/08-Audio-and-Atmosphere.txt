@@ -1,0 +1,27 @@
+# Stick RPG 2 - Audio and Atmosphere
+
+## The "Flash Game" Vibe
+Stick RPG 2 is a product of the Golden Age of Flash Gaming. Its audio identity is defined by compressed, synthesized, and catchy loops.
+
+## Soundtrack Style
+*   **Composer:** Eric Cheng / Nano Uribe.
+*   **Genre:** Chiptune-adjacent, Synth-Pop, Ambient Electronica.
+*   **Key Tracks:**
+    *   **"Home Sweet Home":** Relaxed, ambient, slightly melancholic. Plays in the apartment.
+    *   **"Main Theme":** Upbeat, adventurous, high tempo.
+    *   **"Night Club":** Thumping bass, techno beat.
+    *   **"Combat / Street Fight":** Fast-paced, tense, rock-influenced.
+*   **Function:** The music changes dynamically based on **Location** (Island 1 vs Island 4) and **Activity** (Fighting vs Sleeping).
+
+## Sound Effects (SFX)
+*   **UI Sounds:** High-pitched "Bleeps" and "Bloops" when hovering over menus. Very responsive.
+*   **Combat:**
+    *   **Punch:** Cartoonish "Whack" or "Thud".
+    *   **Gunshot:** Loud, compressed "Bang".
+    *   **Laser:** Sci-fi "Pew".
+*   **Ambience:** City noise, car horns, chirping birds (rare).
+
+## Importance to Stick RPG 3
+*   **Nostalgia:** The specific soundfont used in SR2 is nostalgic for millennial gamers.
+*   **Modernization:** SR3 should keep the **Melodic** strength of the OST but upgrade the production quality.
+*   **Dynamic Audio:** Implement modern audio tech—music that layers intensity as you get Wanted stars or enter combat seamlessly.

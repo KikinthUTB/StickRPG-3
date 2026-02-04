@@ -1,418 +1,80 @@
-# Stick RPG 2 - Jobs and Careers
+# Stick RPG 2 - Jobs, Careers, and Professions
 
-## Job System Overview
+## Job System Mechanics
+*   **Shifts:** You must work a certain number of shifts to get a promotion (usually 3-10).
+*   **Stats:** Every promotion requires higher stats (STR, INT, CHM).
+*   **Rewards:** Promotions grant salary increases and often a unique **Signing Bonus Item** (Weapon, Vehicle, Hat).
 
-Jobs in Stick RPG 2 require specific stat levels and provide varying pay rates. Higher-level jobs require higher stats but offer better compensation. Most jobs have a daily pay structure, with some offering performance bonuses.
+## Civilian / Neutral Jobs
+### 1. Fast Food (McSticks)
+*   **Role:** Burger flipper.
+*   **Entry:** No requirements.
+*   **Reward:** Money + Burgers.
 
-## Entry-Level Jobs
+### 2. Skateboarding
+*   **Role:** Skater.
+*   **Entry:** Charm 40 + Own a Skateboard.
+*   **Max Reward:** Pro Skateboard (Vehicle).
 
-### Fast Food Worker (McStick's)
-- **Requirements**: None
-- **Stat Focus**: None
-- **Pay**: $20-40/day
-- **Hours**: Morning, Afternoon, Evening shifts
-- **Benefits**: 
-  - No requirements, always available
-  - Good starting point
-  - Can work multiple shifts
-- **Location**: Main Island - Commercial District
-- **Notes**: Starting job for most players
+### 3. Graffiti Artist
+*   **Role:** Street artist.
+*   **Entry:** Charm 35.
+*   **Max Reward:** Empty Paint Bucket.
 
-### Convenience Store Cashier
-- **Requirements**: Intelligence 10+
-- **Stat Focus**: Intelligence
-- **Pay**: $30-50/day
-- **Hours**: Various shifts
-- **Benefits**:
-  - Employee discount on items
-  - Slight intelligence gain
-- **Location**: Main Island - Multiple locations
-- **Notes**: Better than fast food, minimal requirements
+### 4. Video Game Designer
+*   **Role:** Developer.
+*   **Entry:** INT 40, CHM 20.
+*   **Max Reward:** **Masamune Katana** + High Salary ($175).
 
-### Janitor
-- **Requirements**: Strength 20+
-- **Stat Focus**: Strength
-- **Pay**: $40-60/day
-- **Hours**: Night shift primarily
-- **Benefits**:
-  - Strength training while working
-  - Access to buildings after hours
-- **Location**: Various buildings
-- **Notes**: Physical job, off-hours work
+## Positive Karma Jobs
+### 1. Police Officer
+*   **Requirement:** **Positive Karma** + Strength.
+*   **Path:** Meter Maid -> ... -> Chief of Police.
+*   **Max Reward:** **Combat Shotgun** + Authority.
+*   **Bonus:** You don't get arrested for carrying weapons as easily.
 
-### Paper Route
-- **Requirements**: Bicycle or better transport
-- **Stat Focus**: None
-- **Pay**: $25-45/day
-- **Hours**: Early morning
-- **Benefits**:
-  - Quick job
-  - Freedom to do other activities
-- **Location**: Residential areas
-- **Notes**: Need transportation
+### 2. Light Knight (Director's Cut)
+*   **Requirement:** Massive Stats (850 INT, 680 STR), Positive Karma, Glowy Sword.
+*   **Role:** Jedi/Guardian figure.
+*   **Max Pay:** $1,200/shift.
+*   **Reward:** Blue Glowy Sword mastery.
 
-### Street Performer
-- **Requirements**: Charm 50+
-- **Stat Focus**: Charm
-- **Pay**: $30-80/day (tips vary)
-- **Hours**: Flexible
-- **Benefits**:
-  - Charm increases while working
-  - Variable income based on performance
-- **Location**: Public areas, parks
-- **Notes**: Income depends on player skill and charm level
+### 3. Kitten Exterminator
+*   Wait, actually this is **Negative Karma** (obviously).
 
-## Mid-Level Jobs
+## Negative Karma Jobs
+### 1. Criminal / Gangster
+*   **Entry:** Low Karma.
+*   **Path:** Thug -> Mafia Boss options.
 
-### Retail Manager
-- **Requirements**: Intelligence 100+, Charm 75+
-- **Stat Focus**: Intelligence, Charm
-- **Pay**: $100-150/day
-- **Hours**: Full day shifts
-- **Benefits**:
-  - Staff discounts
-  - Management experience
-  - Small charm gains
-- **Location**: Shopping Mall - Main Island
-- **Notes**: Stepping stone to better jobs
+### 2. Drug Dealer
+*   **Requirement:** Negative Karma, INT, STR, Coca.
+*   **Path:** Street Peddler -> ... -> Cartel Leader.
+*   **Max Reward:** **Hall of Fame Bat** + High Cash ($240/shift).
+*   **Risk:** Can be arrested.
 
-### Construction Worker
-- **Requirements**: Strength 150+
-- **Stat Focus**: Strength
-- **Pay**: $150-200/day
-- **Hours**: Day shifts
-- **Benefits**:
-  - Significant strength gains
-  - Overtime opportunities
-  - Bonus for dangerous work
-- **Location**: Construction Sites - Main and Industrial Islands
-- **Notes**: Physical, well-paying
+### 3. Pimp
+*   **Requirement:** High Charm, Negative Karma.
+*   **Max Reward:** **Pimp Hat** (Cosmetic/Stat boost).
+*   **Pay:** High ($270).
 
-### Bartender
-- **Requirements**: Charm 150+, Intelligence 75+
-- **Stat Focus**: Charm
-- **Pay**: $120-180/day + tips
-- **Hours**: Evening/Night
-- **Benefits**:
-  - Free drinks
-  - Social connections
-  - Meet NPCs for quests
-  - Charm increases
-- **Location**: Bars and Clubs - Various islands
-- **Notes**: Good social job
+### 4. Hacker
+*   **Requirement:** **Crackbook Pro** (Laptop), High INT, Negative Karma.
+*   **Max Reward:** "The Internet" (Item) + $275.
 
-### Bank Teller
-- **Requirements**: Intelligence 150+, Charm 100+
-- **Stat Focus**: Intelligence, Charm
-- **Pay**: $180-250/day
-- **Hours**: Business hours
-- **Benefits**:
-  - Financial knowledge
-  - Banking perks
-  - Professional appearance required
-- **Location**: Bank - Main Island
-- **Notes**: Respectable position
+### 5. Dark Lord (Director's Cut)
+*   **Requirement:** Massive Stats (680 STR, 850 INT), Negative Karma.
+*   **Role:** Sith Lord parody.
+*   **Max Pay:** $999/shift.
+*   **Reward:** Red/Dark Laser Sword.
 
-### Personal Trainer
-- **Requirements**: Strength 200+, Charm 150+
-- **Stat Focus**: Strength, Charm
-- **Pay**: $200-300/day
-- **Hours**: Flexible
-- **Benefits**:
-  - Free gym access
-  - Strength and charm gains
-  - Train while working
-- **Location**: Gym - Multiple islands
-- **Notes**: For athletic builds
-
-### Web Developer
-- **Requirements**: Intelligence 200+
-- **Stat Focus**: Intelligence
-- **Pay**: $250-350/day
-- **Hours**: Flexible, can work from home
-- **Benefits**:
-  - Work from home option
-  - Computer skills improve
-  - Tech industry entry
-- **Location**: Tech companies or home (requires computer)
-- **Notes**: Good for intelligence-focused players
-
-### Real Estate Agent
-- **Requirements**: Charm 200+, Intelligence 150+
-- **Stat Focus**: Charm, Intelligence
-- **Pay**: $200-400/day (commission-based)
-- **Hours**: Flexible
-- **Benefits**:
-  - Housing discounts
-  - High earning potential
-  - Networking opportunities
-- **Location**: Real Estate Office - Main Island
-- **Notes**: Variable income based on sales
-
-### Police Officer
-- **Requirements**: Strength 200+, Intelligence 150+, Positive Karma
-- **Stat Focus**: Strength, Intelligence
-- **Pay**: $300-400/day
-- **Hours**: Various shifts
-- **Benefits**:
-  - Gun license
-  - Authority perks
-  - Combat training
-  - Cannot do illegal activities
-- **Location**: Police Station - Main Island
-- **Notes**: Blocks criminal path
-
-## High-Level Jobs
-
-### Accountant
-- **Requirements**: Intelligence 300+, Charm 200+
-- **Stat Focus**: Intelligence
-- **Pay**: $400-600/day
-- **Hours**: Business hours
-- **Benefits**:
-  - Financial insights
-  - Stock market tips
-  - Professional network
-- **Location**: Accounting Firm - Main Island
-- **Notes**: Stable high income
-
-### Lawyer
-- **Requirements**: Intelligence 400+, Charm 300+
-- **Stat Focus**: Intelligence, Charm
-- **Pay**: $600-900/day
-- **Hours**: Long hours
-- **Benefits**:
-  - Legal immunity (minor offenses)
-  - Court connections
-  - High prestige
-- **Location**: Law Firm - Main Island
-- **Notes**: Requires business suit
-
-### Stock Broker
-- **Requirements**: Intelligence 450+, Charm 350+
-- **Stat Focus**: Intelligence, Charm
-- **Pay**: $800-1,500/day + bonuses
-- **Hours**: Market hours
-- **Benefits**:
-  - Insider trading opportunities
-  - Stock market advantages
-  - Massive bonus potential
-- **Location**: Stock Exchange - Executive Island
-- **Notes**: Risky but lucrative
-
-### Doctor
-- **Requirements**: Intelligence 500+
-- **Stat Focus**: Intelligence
-- **Pay**: $1,000-1,500/day
-- **Hours**: Shifts (long hours)
-- **Benefits**:
-  - Free healthcare
-  - Heal others
-  - Respect and prestige
-  - Medical knowledge
-- **Location**: Hospital - Various islands
-- **Notes**: Ultimate intelligence job
-
-### Professional Athlete
-- **Requirements**: Strength 500+, Charm 300+
-- **Stat Focus**: Strength, Charm
-- **Pay**: $1,200-2,000/day
-- **Hours**: Training and games
-- **Benefits**:
-  - Celebrity status
-  - Endorsement deals
-  - Free sports gear
-  - Fame
-- **Location**: Sports Complex - Second Island
-- **Notes**: Ultimate strength job
-
-### Corporate Executive
-- **Requirements**: All stats 400+, Suit required
-- **Stat Focus**: All stats
-- **Pay**: $1,500-2,500/day
-- **Hours**: Business hours
-- **Benefits**:
-  - Company car
-  - Expense account
-  - Political power
-  - Networking
-- **Location**: Corporate HQ - Executive Island
-- **Notes**: Balanced high-end job
-
-### CEO
-- **Requirements**: All stats 600+, $100,000 net worth
-- **Stat Focus**: All stats
-- **Pay**: $3,000-5,000/day + stock options
-- **Hours**: Variable (mostly meetings)
-- **Benefits**:
-  - Massive income
-  - Company ownership
-  - Ultimate authority
-  - Luxury perks
-  - Penthouse access
-- **Location**: Corporate HQ - Executive Island
-- **Notes**: Highest legitimate job
-
-## Special/Alternative Jobs
-
-### Drug Dealer (Illegal)
-- **Requirements**: Negative Karma, Street connections
-- **Stat Focus**: Charm, Strength
-- **Pay**: $200-1,000/day (highly variable)
-- **Hours**: Flexible
-- **Benefits**:
-  - High risk, high reward
-  - Black market access
-  - Criminal connections
-- **Location**: Streets, back alleys
-- **Notes**: Risk of arrest, blocks legal paths
-
-### Hitman (Illegal)
-- **Requirements**: Strength 300+, Negative Karma, Criminal rep
-- **Stat Focus**: Strength
-- **Pay**: $500-3,000/contract
-- **Hours**: Contract-based
-- **Benefits**:
-  - Massive pay per job
-  - Weapon access
-  - Fear respect
-- **Location**: Underground contacts
-- **Notes**: Very risky, moral implications
-
-### Casino Dealer
-- **Requirements**: Intelligence 250+, Charm 250+
-- **Stat Focus**: Charm, Intelligence
-- **Pay**: $400-700/day + tips
-- **Hours**: Night shifts
-- **Benefits**:
-  - Gambling insights
-  - Free casino access
-  - High roller connections
-- **Location**: Casino - Main Island
-- **Notes**: Entertainment industry
-
-### DJ/Musician
-- **Requirements**: Charm 300+, Equipment
-- **Stat Focus**: Charm
-- **Pay**: $300-1,200/gig
-- **Hours**: Evening/Night, weekend gigs
-- **Benefits**:
-  - Artistic expression
-  - Fame potential
-  - Club access
-  - Creative work
-- **Location**: Nightclubs, venues
-- **Notes**: Gig-based, not daily
-
-### Scientist/Researcher
-- **Requirements**: Intelligence 400+, Professor Ansel connection
-- **Stat Focus**: Intelligence
-- **Pay**: $800-1,200/day
-- **Hours**: Lab hours
-- **Benefits**:
-  - Story progression
-  - Special items access
-  - Dimensional research
-  - Unique missions
-- **Location**: Research Lab - Second Island
-- **Notes**: Story-related job
-
-### Stunt Performer
-- **Requirements**: Strength 350+, Charm 200+
-- **Stat Focus**: Strength, Charm
-- **Pay**: $600-1,000/stunt
-- **Hours**: Project-based
-- **Benefits**:
-  - Excitement
-  - Fame
-  - Free healthcare (needed!)
-- **Location**: Film Studio - Second Island
-- **Notes**: Dangerous but fun
-
-### Underground Fighter
-- **Requirements**: Strength 250+
-- **Stat Focus**: Strength
-- **Pay**: $300-2,000/fight
-- **Hours**: Fight nights
-- **Benefits**:
-  - Combat experience
-  - Reputation
-  - Prize money
-  - Gambling opportunities
-- **Location**: Fight Club - Underground
-- **Notes**: Risky, can cause injuries
-
-### Smuggler
-- **Requirements**: Transportation, Criminal connections
-- **Stat Focus**: Intelligence, Strength
-- **Pay**: $500-2,500/run
-- **Hours**: Night missions
-- **Benefits**:
-  - Travel between islands
-  - Black market access
-  - High risk profits
-- **Location**: Docks, Ports
-- **Notes**: Very illegal, high risk
-
-## Passive Income Opportunities
-
-### Stock Market Trading
-- **Requirements**: Money to invest, Intelligence 200+
-- **Income**: Highly variable, can be huge
-- **Time**: Market hours, can be passive
-- **Notes**: Risk-based returns
-
-### Real Estate Investment
-- **Requirements**: $10,000+ capital
-- **Income**: $100-1,000/day per property
-- **Time**: Fully passive after purchase
-- **Notes**: Steady income stream
-
-### Business Ownership
-- **Requirements**: $50,000+ capital, relevant stats
-- **Income**: $500-5,000/day
-- **Time**: Can hire managers for passive income
-- **Notes**: Various business types available
-
-### Gambling (Casino)
-- **Requirements**: Money, luck, skill
-- **Income**: Highly variable
-- **Time**: As much as you want
-- **Notes**: Can lose everything
-
-## Career Progression Paths
-
-### Corporate Ladder
-1. Retail worker → Manager → Accountant → Executive → CEO
-
-### Academic Path
-1. Library assistant → Teacher → Professor → Researcher → Scientist
-
-### Criminal Path
-1. Street dealer → Enforcer → Smuggler → Hitman → Crime Boss
-
-### Athletic Path
-1. Gym instructor → Personal Trainer → Pro Athlete → Stunt Performer
-
-### Entertainment Path
-1. Street performer → Bartender → DJ → Celebrity
-
-### Professional Path
-1. Bank Teller → Accountant → Stock Broker → Financial Advisor
+## Miscellaneous / Odd Jobs
+*   **Lumberjack:** Requires Chainsaw. Minigame involves cutting wood. Reward: Bigger Chainsaws.
+*   **Ice Cream Taster:** Requires +900 Karma. Pay: $10 (Joke job).
+*   **Kitten Exterminator:** Requires -900 Karma. Pay: $5 (Joke job).
+*   **Government Official:** (Director's Cut) Climbing to be "The King". Pays the highest legitimate salary ($2,420).
 
 ## Notes for Stick RPG 3
-- Job variety provides different playstyles
-- Clear progression paths motivate stat building
-- Mix of daily jobs and contract work adds variety
-- Illegal jobs add risk/reward decision making
-- Special jobs tied to story create meaningful progression
-- Passive income allows late-game freedom
-- Consider adding:
-  - More gig economy jobs
-  - Freelance opportunities
-  - Entrepreneurship options
-  - More crossover between paths
-  - Job-specific storylines
-  - Workplace relationships
-  - Performance-based bonuses
-  - Career achievements
+*   **Job Variety:** The mix of "Normal" (Burger flipper) and "Absurd" (Dark Lord, Kitten Exterminator) is key to the series' identity.
+*   **Promotions:** The "Work X shifts to promote" loop is addictive but repetitive. SR3 could add mini-games to *perform* the job (like the Lumberjack one) rather than just a progress bar.
+*   **Karma Lock:** Locking jobs behind Karma encourages replayability (Good run vs Evil run).
